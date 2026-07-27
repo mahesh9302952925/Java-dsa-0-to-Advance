@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0414-third-maximum-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,4 +22,5 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
