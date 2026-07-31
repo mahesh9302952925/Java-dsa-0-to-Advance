@@ -13,6 +13,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0219-contains-duplicate-ii) |
@@ -25,6 +26,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0414-third-maximum-number) |
 ## Binary Search
@@ -38,5 +40,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
