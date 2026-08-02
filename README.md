@@ -19,6 +19,7 @@
 | [0219-contains-duplicate-ii](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0414-third-maximum-number) |
+| [1929-concatenation-of-array](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,4 +45,8 @@
 | [0015-3sum](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0283-move-zeroes) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
