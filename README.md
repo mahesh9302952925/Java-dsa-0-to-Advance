@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0367-valid-perfect-square) |
 ## Database
 |  |
@@ -34,6 +35,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0367-valid-perfect-square) |
 ## Sliding Window
 |  |
