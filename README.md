@@ -6,6 +6,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0367-valid-perfect-square) |
 | [0877-stone-game](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0877-stone-game) |
@@ -80,5 +81,10 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0268-missing-number) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
