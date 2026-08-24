@@ -12,6 +12,7 @@
 | [0326-power-of-three](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0367-valid-perfect-square) |
+| [0507-perfect-number](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0877-stone-game) |
 ## Database
 |  |
