@@ -14,6 +14,7 @@
 | [0367-valid-perfect-square](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0877-stone-game) |
+| [1952-three-divisors](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/1952-three-divisors) |
 ## Database
 |  |
 | ------- |
@@ -99,4 +100,17 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/1952-three-divisors) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
