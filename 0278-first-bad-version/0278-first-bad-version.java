@@ -6,9 +6,8 @@ public class Solution extends VersionControl {
         int low = 1;
         int high = n;
         while(low<high){
-            int mid = low + (high-low)/2;
-            boolean bad = isBadVersion(mid);
-            if(bad==false){
+            int mid = low + (high-low)/2;    
+            if(isBadVersion(mid)==false){
                 low = mid+1;
             }else{
                 high = mid;
