@@ -8,9 +8,9 @@ public class Solution extends VersionControl {
         while(low<high){
             int mid = low + (high-low)/2;
             boolean bad = isBadVersion(mid);
-            if(isBadVersion(mid)==false){
+            if(bad==false){
                 low = mid+1;
-            }else if(isBadVersion(mid)==true){
+            }else{
                 high = mid;
             }
         }
