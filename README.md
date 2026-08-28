@@ -51,6 +51,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0374-guess-number-higher-or-lower) |
 ## Sliding Window
@@ -117,5 +118,6 @@
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
