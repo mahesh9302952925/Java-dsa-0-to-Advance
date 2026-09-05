@@ -22,6 +22,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0035-search-insert-position) |
@@ -38,6 +39,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0268-missing-number) |
