@@ -12,6 +12,7 @@
 | [0326-power-of-three](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0877-stone-game) |
 | [1952-three-divisors](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/1952-three-divisors) |
@@ -66,6 +67,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0441-arranging-coins) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sliding Window
 |  |
