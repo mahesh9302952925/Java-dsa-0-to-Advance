@@ -27,6 +27,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0268-missing-number) |
@@ -103,6 +104,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0342-power-of-four) |
