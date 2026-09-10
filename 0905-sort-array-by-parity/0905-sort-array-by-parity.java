@@ -9,7 +9,7 @@ class Solution {
                 nums[right]=temp;
             }
             if (nums[left] % 2 == 0) left++;
-            if (nums[right] % 2 == 1) right--;
+            else  right--;
         }
          return nums;
     }
