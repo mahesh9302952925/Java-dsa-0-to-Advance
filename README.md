@@ -39,6 +39,7 @@
 | [0877-stone-game](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1480-running-sum-of-1d-array](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -153,4 +154,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0141-linked-list-cycle) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
