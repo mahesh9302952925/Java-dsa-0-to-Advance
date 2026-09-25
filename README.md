@@ -41,6 +41,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1470-shuffle-the-array](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/1480-running-sum-of-1d-array) |
+| [1920-build-array-from-permutation](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -95,6 +96,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0258-add-digits) |
+| [1920-build-array-from-permutation](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
 |  |
