@@ -36,6 +36,7 @@
 | [0283-move-zeroes](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0877-stone-game](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -53,6 +54,7 @@
 | [0219-contains-duplicate-ii](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
