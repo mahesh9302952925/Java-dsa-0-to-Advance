@@ -48,6 +48,7 @@
 | [1920-build-array-from-permutation](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/1991-find-the-middle-index-in-array) |
+| [2574-left-and-right-sum-differences](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
 |  |
 | ------- |
@@ -169,6 +170,7 @@
 | [0724-find-pivot-index](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/1991-find-the-middle-index-in-array) |
+| [2574-left-and-right-sum-differences](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/2574-left-and-right-sum-differences) |
 ## Matrix
 |  |
 | ------- |
