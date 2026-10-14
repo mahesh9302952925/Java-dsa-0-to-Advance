@@ -40,6 +40,7 @@
 | [0724-find-pivot-index](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0912-sort-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/1470-shuffle-the-array) |
@@ -70,6 +71,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0912-sort-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
@@ -175,4 +177,28 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/1672-richest-customer-wealth) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
