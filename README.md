@@ -16,6 +16,7 @@
 | [0507-perfect-number](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0877-stone-game) |
 | [1952-three-divisors](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/1952-three-divisors) |
+| [2235-add-two-integers](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/2235-add-two-integers) |
 ## Database
 |  |
 | ------- |
