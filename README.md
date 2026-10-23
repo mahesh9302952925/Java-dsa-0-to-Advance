@@ -102,6 +102,7 @@
 | [0141-linked-list-cycle](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0349-intersection-of-two-arrays) |
+| [0876-middle-of-the-linked-list](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Simulation
@@ -165,6 +166,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
