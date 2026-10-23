@@ -137,6 +137,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0342-power-of-four) |
@@ -166,6 +167,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0203-remove-linked-list-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
