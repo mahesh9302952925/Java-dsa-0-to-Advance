@@ -173,6 +173,7 @@
 | [0141-linked-list-cycle](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0206-reverse-linked-list) |
+| [0707-design-linked-list](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -218,4 +219,8 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0561-array-partition) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
