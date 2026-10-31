@@ -45,6 +45,7 @@
 | [0905-sort-array-by-parity](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0912-sort-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/1470-shuffle-the-array) |
