@@ -15,6 +15,7 @@
 | [0441-arranging-coins](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0877-stone-game) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1952-three-divisors](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/2235-add-two-integers) |
 ## Database
@@ -43,6 +44,7 @@
 | [0877-stone-game](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0912-sort-an-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/1470-shuffle-the-array) |
