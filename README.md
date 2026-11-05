@@ -41,6 +41,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0561-array-partition](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0561-array-partition) |
 | [0724-find-pivot-index](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0912-sort-an-array) |
@@ -117,6 +118,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0258-add-digits) |
+| [0867-transpose-matrix](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
@@ -196,6 +198,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/1672-richest-customer-wealth) |
 ## Divide and Conquer
