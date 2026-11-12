@@ -46,6 +46,7 @@
 | [0905-sort-array-by-parity](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0922-sort-array-by-parity-ii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -68,6 +69,7 @@
 | [0268-missing-number](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
@@ -235,4 +237,8 @@
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0707-design-linked-list) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
