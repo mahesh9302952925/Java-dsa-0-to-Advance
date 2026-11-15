@@ -241,4 +241,8 @@
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
