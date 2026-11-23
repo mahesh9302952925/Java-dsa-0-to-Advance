@@ -34,6 +34,7 @@
 | [0136-single-number](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0349-intersection-of-two-arrays) |
@@ -67,6 +68,7 @@
 | [0141-linked-list-cycle](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -79,6 +81,7 @@
 | [0015-3sum](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -232,6 +235,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0229-majority-element-ii) |
 | [0561-array-partition](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0912-sort-an-array) |
 ## Greedy
@@ -250,4 +254,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0069-sqrtx) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
