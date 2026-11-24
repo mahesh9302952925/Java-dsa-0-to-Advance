@@ -40,6 +40,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0561-array-partition](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0561-array-partition) |
 | [0724-find-pivot-index](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0724-find-pivot-index) |
@@ -72,6 +73,7 @@
 | [0268-missing-number](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -86,6 +88,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/mahesh9302952925/Java-dsa-0-to-Advance/tree/master/0912-sort-an-array) |
